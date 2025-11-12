@@ -1,1 +1,1 @@
-# aws-hands-on-lab-gen-ai-v1
+![background](background.png)
